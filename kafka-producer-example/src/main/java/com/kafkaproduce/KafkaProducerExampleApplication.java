@@ -8,6 +8,7 @@ public class KafkaProducerExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaProducerExampleApplication.class, args);
+	     System.out.println("Producer Example");
 	}
 
 }
